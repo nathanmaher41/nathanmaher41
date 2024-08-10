@@ -1,63 +1,56 @@
-## Hey 👋, I'm Nathan Maher a Carnegie Mellon University 2024 graduate with a major in Information Systems concentrating in software development.  I enjoy both frontend and backend develpment, and do my best work with user centred 
-##Skills
-###Proficient
-####Languages
+Hey 👋, I'm Nathan Maher!
+I'm a Carnegie Mellon University 2024 graduate with a major in Information Systems, concentrating in software development. I enjoy both frontend and backend development, and do my best work with user-centered design.
+
+Skills
+Proficient
+Languages
 Python
 Java
-Javascript
-Typescript
+JavaScript
+TypeScript
 CSS
 HTML
 SQL
-Mongo
+MongoDB
 Git
-####Frameworks and Tools
+Frameworks and Tools
 Django
 Flask
-Numpy
+NumPy
 React
 AWS EC2
-Postgres
+PostgreSQL
 MySQL
-Mongo Atlas
+MongoDB Atlas
 Figma
 Balsamiq
-####Software Skills
-Debugging, Design Patterns, Object Oriented Programming, Test Driven Development, API Design, User Testing, User Centered Design, AGILE development, SCRUM, REST API
-###Intermediate
-####Languages
+Software Skills
+Debugging
+Design Patterns
+Object-Oriented Programming
+Test-Driven Development
+API Design
+User Testing
+User-Centered Design
+Agile Development (SCRUM)
+REST APIs
+Intermediate
+Languages
 C
 C++
 Ruby
 Swift
-####Frameworks and Tools
+Frameworks and Tools
 AWS S3
 AWS DynamoDB
 AWS Lambda
-
-###Basic
+Basic
 Kotlin
-
-##Interests
-###Playing with my dog Loki
-###PFP is Loki my Samoyed!
-###Watching sports including american football, basketball, mma, and futbol
-###Graphic Design (Photoshop)
-###Competitive Games
-###Staying active, going to the gym, hikes, swimming, etc.
-###Enjoy coding
-###Listenting to hip-hop music
-<!--
-**nathanmaher41/nathanmaher41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+Playing with my dog Loki 🐾
+Watching sports, including American football, basketball, MMA, and fútbol
+Graphic Design (Photoshop)
+Competitive gaming
+Staying active: going to the gym, hiking, swimming, etc.
+Enjoying coding 💻
+Listening to hip-hop music 🎧
