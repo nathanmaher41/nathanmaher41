@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Carnegie Mellon University 2024 Graduate with a major in Information Systems concentrating in software development.
+
+
 <!--
 **nathanmaher41/nathanmaher41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
