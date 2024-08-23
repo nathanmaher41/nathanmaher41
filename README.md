@@ -1,6 +1,6 @@
 # Hey 👋, I'm Nathan Maher!
 
-I'm a Carnegie Mellon University 2024 graduate with a major in Information Systems, concentrating in software development. I enjoy both frontend and backend development, and do my best work with user-centered design.
+I'm a Carnegie Mellon University 2024 graduate with a major in Software Engineering. I enjoy both frontend and backend development, and do my best work with user-centered design.
 
 ## Skills
 
