@@ -15,14 +15,14 @@ I'm a Carnegie Mellon University 2024 graduate with a major in Software Engineer
 - HTML
 - SQL
 - MongoDB
-- Git
 
 #### Frameworks and Tools
+- Git
 - Django
 - Flask
 - NumPy
 - React
-- AWS EC2
+- AWS
 - PostgreSQL
 - MySQL
 - MongoDB Atlas
@@ -57,12 +57,4 @@ I'm a Carnegie Mellon University 2024 graduate with a major in Software Engineer
 
 - Kotlin
 
-## Interests
-
-- Playing with my dog Loki 🐾
-- Watching sports, including American football, basketball, MMA, and fútbol
-- Graphic Design (Photoshop)
-- Competitive gaming
-- Staying active: going to the gym, hiking, swimming, etc.
-- Enjoying coding 💻
-- Listening to hip-hop music 🎧
+###Open to work!!
